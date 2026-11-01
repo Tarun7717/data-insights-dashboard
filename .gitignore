@@ -1,0 +1,14 @@
+# Raw datasets
+data/*.csv
+data/*.zip
+
+# Excel temporary files
+~$*.xlsx
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
